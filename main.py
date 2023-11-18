@@ -11,5 +11,5 @@ def timer():
         time.sleep(1)
 
 
-if __name__ == '__main __':
+if __name__ == '__main__':
     timer()
